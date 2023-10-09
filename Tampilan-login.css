@@ -108,6 +108,7 @@ body{
 div#nama input{
     border: 1px solid black;
     padding: 5px;
+    border-radius: 12px;
     width: 250px;
     margin-top: 10px;
     margin-left: -20px

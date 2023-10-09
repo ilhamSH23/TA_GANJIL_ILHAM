@@ -106,10 +106,7 @@ body{
     margin-top: -10px;
 }
 div#nama input{
-    /* border: 1px solid black; */
-    border: none;
-    border-bottom: 2px solid rgb(0, 0, 0);
-    outline: none;
+    border: 1px solid black;
     padding: 5px;
     width: 250px;
     margin-top: 10px;

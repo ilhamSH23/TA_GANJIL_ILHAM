@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+#kepala{
+    border: 1px solid black;
+    height: 50px;
+}
+#txt h1{
+    margin-top: -45px;
+    margin-left: 200px;
+    font-family: popins,sans-serif;
+}

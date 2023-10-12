@@ -13,3 +13,17 @@ body{
     margin-left: 200px;
     font-family: popins,sans-serif;
 }
+#txt_login{
+    margin-left: 85%;
+    margin-top: -45px;
+    font-family: popins,sans-serif;
+}
+#txt_login span1{
+    margin-left: 20px;
+}
+#lpm{
+    margin-top: 30px;
+    font-family: popins,sans-serif;
+    font-size: 45px;
+    text-align: center;
+}

@@ -8,15 +8,19 @@ body{
     box-shadow: 100px;
     height: 50px;
 }
-#txt h1{
-    margin-top: -45px;
-    margin-left: 200px;
+#txt span{
+    margin-top: -00px;
+    margin-left: 70px;
     font-family: popins,sans-serif;
+    
 }
 #txt_login{
     margin-left: 85%;
     margin-top: -45px;
     font-family: popins,sans-serif;
+}
+#txt_login span1:hover{
+    margin-left: 20px;
 }
 #txt_login span1{
     margin-left: 20px;

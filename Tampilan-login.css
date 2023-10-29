@@ -16,7 +16,7 @@ body{
 #box-text{
     width: 400px;
     height: 600px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin-left: 39px;
     margin-top: 30px;
     background-color: rgb(255, 255, 255);
@@ -70,7 +70,7 @@ background: linear-gradient(90deg, rgba(88,83,153,1) 19%, rgba(19,129,150,1) 100
     font-family: popins,sans-serif;
 }
 #box-kotak{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width: 100px;
     height: 100px;
 }

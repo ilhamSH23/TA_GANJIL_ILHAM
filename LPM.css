@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+#kotak-atas{
+    background-color: aqua;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+    font-size: 25px;
+}
+#Nama{
+    margin-top: 24px;
+}
+#masuk{
+    display: flex;
+    margin-top: 24px;
+    
+}
+#masuk button{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 30px;
+    width: 70px;
+    cursor: pointer;
+}
+#text{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}

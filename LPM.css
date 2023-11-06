@@ -1,36 +1,59 @@
-*{
-    box-sizing: border-box;
-}
-body{
-    margin: 0;
-}
-#kotak-atas{
-    background-color: aqua;
-    height: 60px;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    padding: 0 30px;
-    font-size: 25px;
-}
-#Nama{
-    margin-top: 20px;
-    font-size: 20px;
-    margin-left: 200px;
-}
-#masuk{
-    display: flex;
-    margin-top: 15px;
-    
-}
-#masuk button{
-    margin-left: 20px;
-    margin-right: 20px;
+ * {
+     box-sizing: border-box;
+ }
+
+ body {
+     margin: 0;
+ }
+
+ #kotak-atas {
+     background-color: aqua;
+     height: 60px;
+     width: 100%;
+     display: flex;
+     justify-content: space-between;
+     padding: 0 30px;
+     font-size: 25px;
+ }  
+ #Nama {
+     margin-top: 20px;
+     font-size: 20px;
+     margin-left: -60%;
+     display: flex;
+     cursor: pointer;
+ }
+ #masuk {
+     display: flex;
+     margin-top: 15px;
+ }
+ #Judul{
+    font-size: 30px;
+    margin-top: 10px;
+ }
+ #masuk button {
+     margin-left: 20px;
+     margin-right: 20px;
+     height: 30px;
+     width: 70px;
+     cursor: pointer;
+ }
+
+ #box-kotak {
+     width: 1300px;
+     height: 630px;
+     border: 1px solid black;
+     box-shadow: 0px 0px 15px;
+     margin-left: 7%;
+ }
+ #Kotak-text{
+    margin-top: 100px;
+    margin-left: 50px;
+ }
+ #Lapor1{
+    margin-left: 83%;
+    margin-top: -80px;
+ }
+ #Lapor1 button{
     height: 30px;
     width: 70px;
-    cursor: pointer;
-}
-#box-kotak{
-    width: 500px;
-    height: 500px;
-}
+ }

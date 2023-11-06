@@ -52,6 +52,7 @@ background: linear-gradient(90deg, rgba(72,68,121,1) 19%, rgba(19,129,150,1) 100
     width: 200px;
     height: 25px;
     border-radius: 20px;
+    cursor: pointer;
 }
 #box-login h5{
     margin-top: -46px;
@@ -127,4 +128,5 @@ div#password label {
     font-family: popins,sans-serif;
     margin-left: 15px;
     margin-top: 10px;
+    cursor: pointer;
 }

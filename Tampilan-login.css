@@ -27,14 +27,12 @@ body{
 #box-login{
     width: 400px;
     height: 600px;
-    border: 1px solid black;
-    /* background-image: url(gambar/abstract-blue-background-with-beautiful-fluid-shapes-free-vector.jpg); */
+    /* border: 1px solid black; */
     margin-top: 30px;
     background-color: white;
     background-repeat: no-repeat;
     background-size: cover;
-    background: rgb(88,83,153);
-background: linear-gradient(90deg, rgba(88,83,153,1) 19%, rgba(19,129,150,1) 100%);
+    background: linear-gradient(90deg, rgba(88,83,153,1) 19%, rgba(19,129,150,1) 100%);
     
 }
 #box-login h1{
@@ -57,6 +55,7 @@ background: linear-gradient(90deg, rgba(88,83,153,1) 19%, rgba(19,129,150,1) 100
     width: 200px;
     height: 25px;
     border-radius: 20px;
+    cursor: pointer;
 }
 #box-login h5{
     margin-top: -46px;
@@ -70,9 +69,9 @@ background: linear-gradient(90deg, rgba(88,83,153,1) 19%, rgba(19,129,150,1) 100
     font-family: popins,sans-serif;
 }
 #box-kotak{
-    /* border: 1px solid black; */
+    /* border: 1px solid black;
     width: 100px;
-    height: 100px;
+    height: 100px; */
 }
 #title{
     text-align: center;
@@ -132,6 +131,7 @@ div#password label {
 }
 .namatext span1{
     color: blue;
+    cursor: pointer;
 }
 .namatext{
     font-family: popins,sans-serif;

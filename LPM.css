@@ -6,7 +6,7 @@ body{
 }
 #kotak-atas{
     background-color: aqua;
-    height: 80px;
+    height: 60px;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -14,11 +14,13 @@ body{
     font-size: 25px;
 }
 #Nama{
-    margin-top: 24px;
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 200px;
 }
 #masuk{
     display: flex;
-    margin-top: 24px;
+    margin-top: 15px;
     
 }
 #masuk button{
@@ -28,8 +30,7 @@ body{
     width: 70px;
     cursor: pointer;
 }
-#text{
-    border: 1px solid black;
-    width: 100px;
-    height: 100px;
+#box-kotak{
+    width: 500px;
+    height: 500px;
 }

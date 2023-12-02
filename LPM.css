@@ -36,6 +36,7 @@
      height: 30px;
      width: 70px;
      cursor: pointer;
+     border-radius: 10px;
  }
 
  #box-kotak {
@@ -46,7 +47,8 @@
      margin-left: 7%;
  }
  #Kotak-text{
-    margin-top: 100px;
+    margin-top: 60px;
+   
     margin-left: 50px;
  }
  #Lapor1{
@@ -56,4 +58,23 @@
  #Lapor1 button{
     height: 30px;
     width: 70px;
+    margin-left: 20px;
+    margin-top: 20px;
+    cursor: pointer;border-radius: 10px;
+    
  }
+ #nama{
+    height: 35px;
+    width: 250px;
+ }
+ #email{
+    height: 35px;
+    width: 250px;
+    margin-left: 20px;
+ }
+ .box-nama-email{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+ 

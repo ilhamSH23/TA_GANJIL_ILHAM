@@ -70,11 +70,15 @@
  #email{
     height: 35px;
     width: 250px;
-    margin-left: 20px;
+    
  }
  .box-nama-email{
     display: flex;
     margin-top: 50px;
     margin-left: 50px;
+    flex-wrap: wrap;
+    gap: 60px;
 }
- 
+#Bagianatas{
+    display: flex;
+}

@@ -82,3 +82,47 @@
 #Bagianatas{
     display: flex;
 }
+header{
+    background: #4472c4;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#Logo{
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+#Tombol{
+    margin-right: 20px;
+    
+}
+#Tombol button{
+    background: white;
+    color:  black;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: all.5s ease;
+}
+#Login{
+    width: 80px;
+    height: 25px;
+    border-radius: 15px;
+}
+#Navbar a{
+    margin: 0px 10px;
+    text-decoration: none;
+    color:  white;
+    transition: all .5s ease;
+}
+#Navbar a:hover{
+    color: black;
+}
+#Tombol button:hover{
+    color: white;
+    background: grey;
+}
